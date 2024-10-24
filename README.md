@@ -10,7 +10,7 @@ NTDEV's Tiny10 but more private
 
 ## What Mini10 is not:
 - A preactivated operating system (you need an LTSC 2019 license)
-- A gamers-side operating system
+- A gamers side operating system
 - A program to optimize your PC, this builds a Windows ISO
 
 ## How to build
